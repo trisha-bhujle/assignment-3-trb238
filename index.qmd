@@ -1,7 +1,11 @@
 ---
-title: "assignment-3-trb238"
+title: "Trisha's Assignment 3"
 ---
 
-This is a Quarto website.
+My name is Trisha Bhujle. My GitHub is <https://github.com/trisha-bhujle>
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+My collaborator is Hannah Pryor. Her GitHub is <https://github.com/snowbirder26>
+
+I love ostriches!
+
+![](images/Trisha_Ostriches.jpg)

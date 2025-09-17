@@ -1,5 +1,17 @@
 ---
-title: "About"
+title: "Trisha"
 ---
 
-About this site
+My name is Trisha Bhujle, and I am an undergraduate student studying Environment and Sustainability at Cornell. I've been conducting conservation social science fieldwork in Tanzania over the past two summers and am excited to learn how to use GitHub to share my work!
+
+Some random fun facts about me:
+
+-   Though I primarily maintain a vegetarian diet, **I'm part of a research lab on hunting and have tried lots of wild meat**: goose, squirrel, duck, ostrich, deer, and much more!
+
+-   I've spent the past five semesters working at [**Anabel's Grocery**](https://www.anabelsgrocery.org/), a student-run nonprofit grocery store at Cornell. My favorite product sold at Anabel's is the dairy free coconut yogurt.
+
+-   **I'm trying to explore as many of Ithaca's natural areas as possible** this semester. So far this month, I've been to the Cliffs of Varna, Flat Rock and the Arboretum, Dunlop Meadow, Monkey Run, Stewart Park, and the Durland Bird Preserve!
+
+-   I'm graduating in May, and **one of my goals is to be able to do the splits by graduation**. Fingers crossed!
+
+Thank you for visiting my website!
