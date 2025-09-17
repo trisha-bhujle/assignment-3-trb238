@@ -1,5 +1,13 @@
 ---
 title: "Trisha's Assignment 3"
+toc: false
+about: 
+  template: jolla
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/trisha-bhujle/
+    - text: Email
+      href: mailto:trb238@cornell.edu
 ---
 
 My name is Trisha Bhujle. My GitHub is <https://github.com/trisha-bhujle>
